@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elena Álvarez Sánchez</h1>
-<h3 align="center">A computer engineer living in Spain and excited to start the working life</h3>
+<h3 align="center">A computer engineer living in Spain and excited to start the labor life</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elenalvarez&label=Profile%20views&color=0e75b6&style=flat" alt="elenalvarez" /> </p>
 
